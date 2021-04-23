@@ -204,12 +204,6 @@ This homework is graded based on the following criteria:
 
 * The walkthrough video must demonstrate how to start the application’s server.
 
-* The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia Core.
-
-* The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
-
-* The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
-
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
@@ -246,3 +240,16 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+links: 
+
+https://drive.google.com/file/d/1Gk5MqcbXi6ms5aduJLOOLczJvayoIrII/view
+
+https://drive.google.com/file/d/1zwpIUsmUFlmn-WeqxaYWUIlzYWfs47TD/view
+
+https://drive.google.com/file/d/1ulTG7CJe76wHyghA3Ag50LXTRyOXTEku/view
+
+https://drive.google.com/file/d/1VHiiHRXFv-cCXJFNsfnAzBY6YYqmzrFL/view
+
+https://drive.google.com/file/d/1mQeWl3owvNaJh7J1OLktWdRDbgllmvxM/view
