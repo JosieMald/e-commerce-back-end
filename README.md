@@ -24,7 +24,7 @@ Install dotenv, express, mySQL2, and sequelize.
 
 How to create Database, add seeds, and start server:
 
-![Install](/e-commerce-back-end/assets/install.gif)
+![Install](https://drive.google.com/file/d/1jzXkYXlZKEMuUKNFA7SqdoUmyhIcGlux/view)
 
 How to GET all data by table:
 
