@@ -24,7 +24,7 @@ Install dotenv, express, mySQL2, and sequelize.
 
 How to create Database, add seeds, and start server:
 
-![Install](https://drive.google.com/file/d/1jzXkYXlZKEMuUKNFA7SqdoUmyhIcGlux/view)
+![Install](/e-commerce-back-end/assets/install.gif)
 
 How to GET all data by table:
 
@@ -53,18 +53,3 @@ How to CREATE, UPDATE, AND DELETE DATA in Tags:
 For more information regarding this generator you can contact me at:
 
 JosieLindaMaldonado@gmail.com
-
-
-
-
-https://drive.google.com/file/d/1jzXkYXlZKEMuUKNFA7SqdoUmyhIcGlux/view
-
-https://drive.google.com/file/d/1Gk5MqcbXi6ms5aduJLOOLczJvayoIrII/view
-
-https://drive.google.com/file/d/1zwpIUsmUFlmn-WeqxaYWUIlzYWfs47TD/view
-
-https://drive.google.com/file/d/1ulTG7CJe76wHyghA3Ag50LXTRyOXTEku/view
-
-https://drive.google.com/file/d/1VHiiHRXFv-cCXJFNsfnAzBY6YYqmzrFL/view
-
-https://drive.google.com/file/d/1mQeWl3owvNaJh7J1OLktWdRDbgllmvxM/view
